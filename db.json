@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "cardnumber": "7023-5199-4300-4231",
+    "balance": "10,000.00",
+    "email": "Sincere@april.biz",
+  },
+  {
+    "id": 2,
+    "cardnumber": "6903-5313-3442-4123",
+    "balance": "15,000.00",
+    "email": "Sincere@june.biz",
+  },
+  {
+    "id": 3,
+    "cardnumber": "7055-3181-5004-4921",
+    "balance": "30,000.00",
+    "email": "Sincere@may.biz",
+  }
+]
